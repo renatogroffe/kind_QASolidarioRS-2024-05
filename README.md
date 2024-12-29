@@ -30,4 +30,6 @@ Deixo aqui meus agradecimentos ao **Fábio Araújo**, à **Graziela Rustiguella 
 
 ![alt](img/qa-solidario.jpg)
 
+![alt](img/site.png)
+
 Outros prints podem ser encontrados neste [**diretório**](/img/).
